@@ -1,5 +1,5 @@
 # Emittance_g4bl_Bpm_Plot
-Plots emittance from ASCII formatted g4bl beam position monitors within a folder.
+Plots emittance from ASCII formatted G4Beamline (g4bl) beam position monitors within a folder.
 
 Step 1: All BPM's in ASCII format. (BLTrackfile)
 Step 2: Open up python script and direct to that folder in the "dir" element
